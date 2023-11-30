@@ -1,0 +1,15 @@
+#caja {
+    background-image: url(./../images/redhood-2016.jpg);
+    background-size: 100px 80px;
+    background-repeat: no-repeat;
+    width: 600px;
+   
+    border: 1px solid;
+}
+
+#caja p {
+    max-width: 60%;
+    margin: 0 0 0 auto;
+    text-wrap: balance;
+    text-align: right;
+}
